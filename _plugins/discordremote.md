@@ -40,7 +40,11 @@ screenshots:
 featuredimage: /assets/img/plugins/discordremote/featured.jpg
 
 compatibility:
-  python: ">=3.8,<4"
+  python: ">=2.7,<4"
+
+attributes:
+- cloud
+
 ---
 
 # DiscordRemote
